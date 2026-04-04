@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poppyamriyati
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning about Data Science
+- 👀 I’m experienced Data Analyst
+- 🌱 I’m currently still exploring and learning new things about Data Analysis 
 - 📫 Please reach me through my email (poppy.amriyati@gmail.com) 
 
 <!---
